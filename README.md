@@ -1,7 +1,7 @@
 Hi 👋 My name is Jordan Kelloway!
 =======================
 
-Software Development Student
+Semester 3 Software Development Student At Keyin College!
 ----------------------------
 
 * 🌍  I'm based in Carbonear Newfoundland
