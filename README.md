@@ -1,4 +1,4 @@
-Hi 👋 My name is Jordan
+Hi 👋 My name is Jordan Kelloway!
 =======================
 
 Software Development Student
@@ -6,8 +6,8 @@ Software Development Student
 
 * 🌍  I'm based in Carbonear Newfoundland
 * ✉️  You can contact me at [j\_kelloway@hotmail.com](mailto:j_kelloway@hotmail.com)
-* 🧠  I'm learning Python in my current semester
-* ⚡  I'm a huge nerd
+* 🧠  My technical skills now include AWS,HTML,CSS,Javascript,Python, I also dabble in React and have a basic understanding of R! 
+* ⚡ I'm a huge nerd
 
 ### Skills
 
