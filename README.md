@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Carbonear Newfoundland<br>✉️  You can contact me at j_kelloway@hotmail.com<br>🧠 My technical skills now include AWS,HTML,CSS,Javascript,Python, I also dabble in React and have a basic understanding of R!<br>⚡ I'm a huge nerd
+🌍  I'm based in Carbonear Newfoundland<br>✉️  You can contact me at j_kelloway@hotmail.com<br>🧠 My technical skills now include AWS,HTML,CSS,Javascript,Python,Java I also dabble in frameworks such as React and Springboot I also have a basic understanding of R!<br>⚡ I'm a huge nerd
 
 
 # 💻 Tech Stack:
